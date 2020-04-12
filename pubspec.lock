@@ -104,6 +104,7 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
+<<<<<<< HEAD
   flutter_cache_manager:
     dependency: transitive
     description:
@@ -111,6 +112,15 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "1.2.0"
+=======
+  flutter_launcher_icons:
+    dependency: "direct dev"
+    description:
+      name: flutter_launcher_icons
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "0.7.4"
+>>>>>>> 18c99b32684d769be7f0a00cd51299c955ca7011
   flutter_test:
     dependency: "direct dev"
     description: flutter
@@ -344,7 +354,18 @@ packages:
       name: xml
       url: "https://pub.dartlang.org"
     source: hosted
+<<<<<<< HEAD
     version: "3.5.0"
+=======
+    version: "3.6.1"
+  yaml:
+    dependency: transitive
+    description:
+      name: yaml
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "2.2.0"
+>>>>>>> 18c99b32684d769be7f0a00cd51299c955ca7011
 sdks:
   dart: ">=2.7.0 <3.0.0"
   flutter: ">=1.10.15-pre.148 <2.0.0"
